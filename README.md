@@ -1,3 +1,3 @@
 # apnacollege2
 this is my first repo
-author jayan
+author jayan saxena
